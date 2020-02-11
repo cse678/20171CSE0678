@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<body>
+<h3>S.Arun Kumar</h3>
+<p>Email:srirangapuramarun98@gmail.com</p>
+<h3>+91-8978802082</h3>
+<hr />
+
+<h2>C V Highlights</h2>
+<ul type="circle">
+<li>currently going through cse256-Internet Technology Lab</li>
+<li>learnt basic Python,Oracle,and C</li>
+<br />
+<table border="1" bgcolor="white" width="40" cellspacing="1" cellpadding="1" bordercolor="black">
+<captionalign="center">Educational Qualifications</caption>
+<tr>
+<th>Name of the program</th>
+<th>School/Institution/University</th>
+<th>percentile</th>
+<th>Year of passing</th>
+</tr>
+<tr>
+<td>10th</td>
+<td>Sri chaitanya E/M School</td>
+<td>93</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>Intermediate</td>
+<td>Sri chaitanya college</td>
+<td>93</td>
+<td>2017</td>
+</tr>
+<tr>
+<td>Undergraduate</td>
+<td>Presidency University</td>
+<td>60</td>
+<td>2021</td>
+</tr>
+</table>
+<br />
+<h2>Technical Skills</h2>
+<ul type="circle">
+<li>Basic Python,Oracle,C and Java</li>
+<li>Perl,Java script,HTML,CSS</li>
+
+
+
