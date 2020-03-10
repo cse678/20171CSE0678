@@ -1,0 +1,32 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="cas.css"/>
+</head>
+<body>
+<h1>this is heading
+<p>this is paragraph</p>
+<p>this font is small</p></h1>
+<p><h2>this font is large</h2></p>
+<img src="/home/Sem6B10/Downloads/flower-purple-lical-blosso.jpg"/>
+.mycolor{red:00000;}
+<p id="id1">tour data</p>
+<h1 id="id1">your data</h1>
+<br />
+<p class="mycolor">yourdata</p>
+<p four="green">arun</p>
+<ul>
+<li>arun</li>
+<li>kumar</li>
+</ul>
+<p>arun<span>kumar</span></p>
+<p>arun<a href="/home/Sem6B10/Downloads/flower-purple-lical-blosso.jpg">arun</a></p>
+<p>Since the essay can only include 100 words, <span class="a">plan to only write </span>seven to 10<span class="b"> sentences. Leave one or two sentences for the thesis,</span> four to eight sentences<span class="c"> for the body paragraph and one </span>sentence for the conclusion.
+<ul>
+ <li><a id="w" href="/home/Sem6B10/Downloads/flower-purple-lical-blosso.jpg">text link</a></li>
+ <li><a id="x" href="/home/Sem6B10/Downloads/flower-purple-lical-blosso.jpg">text link</a></li>
+ <li><a id="y" href="/home/Sem6B10/Downloads/flower-purple-lical-blosso.jpg">link button</a></li>
+ <li><a id="z" href="/home/Sem6B10/Downloads/flower-purple-lical-blosso.jpg">link button</a></li>
+</ul>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a> 
+</body>
+</html>
